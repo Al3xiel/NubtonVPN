@@ -1,3 +1,9 @@
-#NubtonVPN
-hola que tal 
-a
+# NubtonVPN
+Somos NRG2, una startup creada por estudiantes de la carrera de Ingeniería de Software y Sistemas de la información en la Universidad Peruana de Ciencias Aplicadas del Perú y hemos desarrollado una aplicación llamada NubtonVPN.
+NubtonVPN es una aplicación que busca erradicar las restricciones de acceso a ciertas aplicaciones y páginas web, debido a la ubicación geográfica, impuestas por los gobiernos o las empresas propietarias de las plataformas. Esta situación limita la libertad de información y el acceso a recursos digitales de forma significativa en el ámbito del entretenimiento.
+
+- Visión: Nos visualizamos como líderes en la promoción y protección del libre acceso a la completa información del mundo digital. Nuestra visión es ayudar a crear un mundo donde las barreras geográficas no obstaculicen el acceso a contenidos, aplicaciones y páginas web, garantizando así la libre circulación de ideas, conocimiento y recursos digitales para todos, sin importar la ubicación geográfica.
+
+- Misión: Nuestra misión es proporcionar una solución tecnológica, moderna, innovadora y segura que permita a los usuarios superar las restricciones geográficas impuestas por los gobiernos o empresas propietarias de plataformas. Nos comprometemos a ofrecer un acceso sin impedimentos a aplicaciones y páginas web, ayudando a las personas para que exploren, aprendan y se conecten con el mundo digital sin límites. Además, nos comprometemos a promover la conciencia sobre la importancia de la libertad de información y a abogar por políticas que respalden este principio fundamental en la era digital actual.
+
+- Objetivo: Nuestro objetivo es desarrollar una aplicación intuitiva y efectiva que permita a los usuarios eludir las restricciones geográficas y acceder a cualquier aplicación o página web deseada, garantizando al mismo tiempo altos estándares de seguridad y privacidad respecto a los datos del usuario. Buscamos expandir nuestra base de usuarios y alcanzar una amplia presencia global, brindando una solución confiable y accesible para aquellos que enfrentan obstáculos en el acceso a la información en línea debido a restricciones geográficas.
