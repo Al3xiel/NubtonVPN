@@ -60,3 +60,24 @@
     line-height: 100%;
     color: #ffffff; /* Naranja Cálido */
 }
+
+.sidebar-item a {
+    position: relative;
+    font-size: 1em;
+    font-weight: bold;
+    text-align: justify;
+    color: #ffffff;
+}
+
+.usuario {
+    list-style: none;
+    display: flex;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 0px;
+}
+.usuario a{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 8px;
+}
