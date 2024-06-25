@@ -33,11 +33,12 @@
     padding-top: 25px;
     padding-bottom: 25px;
     align-self: center;
-    height: 70%;
+    height: 10%;
 }
 
 .sidebar-item-img img {
     border-radius: 10px;
+    height:100%;
 }
 
 .sidebar-item-text h2 {
